@@ -1,0 +1,5 @@
+Estudiar Patrones de Diseño
+
+https://refactoring.guru/es/design-patterns/singleton
+
+https://www.gob.mx/cms/uploads/attachment/file/1001640/Patrones_de_diseno_java_modelos.pdf
